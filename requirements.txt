@@ -1,0 +1,7 @@
+tensorflow>=2.10.0
+librosa>=0.10.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+pyaudio>=0.2.0
+soundfile>=0.12.0
+edge-tts>=6.1.0
